@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/allavoie/google-drive-min/issues"
   },
-  "homepage": "https://github.com/allavoie/google-drive-min#readme"
+  "homepage": "https://github.com/allavoie/google-drive-min#readme",
+  "dependencies": {
+    "google-auth-library": "^0.12.0",
+    "googleapis": "^25.0.0"
+  }
 }
